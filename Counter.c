@@ -7,7 +7,7 @@
  *
  * Adaptado primero por: John Sanabria - john.sanabria@correounivalle.edu.co
  * Adaptado segundo por: Jhonier mendez - jhonier.mendez@correounivalle.edu.co
- * Fecha: 2024-11-03
+ * Fecha: 2024-11-04
  */
 
 #include <stdio.h>
