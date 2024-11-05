@@ -14,9 +14,8 @@
 #include <stdlib.h>
 #include <pthread.h>
 
-int max;
-int counterglobal;
-//volatile int counter = 0; // shared global variable
+int max; //cantidad que se le va a sumar al counter de 1 en 1
+int counterglobal; //variable que suma lo calculado por los hilos
 
 void *mythread(void *arg) {
   char *letter = arg;
